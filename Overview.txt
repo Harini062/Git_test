@@ -1,0 +1,4 @@
+Title- Prognostic CLassification of Respiratory ailments using acoustic analysis of lung auscultation sounds.
+   
+
+Predicting the respiratory ailments using lung sounds.
